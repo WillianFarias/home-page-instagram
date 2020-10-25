@@ -111,8 +111,16 @@ body {
   padding: 1rem;
 }
 
-.app-dpwnload {
+.app-download {
   height: 3rem;
   width: 10rem;
   background-size: cover;
+}
+
+.app-download:nth-child(1) {
+  background-image: url('./img/applestore-button.png');
+}
+
+.app-download:nth-child(2) {
+  background-image: url('./img/googleplay-button.png');
 }
