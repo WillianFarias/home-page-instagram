@@ -110,3 +110,9 @@ body {
   align-items: center;
   padding: 1rem;
 }
+
+.app-dpwnload {
+  height: 3rem;
+  width: 10rem;
+  background-size: cover;
+}
